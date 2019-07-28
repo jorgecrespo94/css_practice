@@ -1,0 +1,24 @@
+{
+  "name": "css_practice",
+  "version": "1.0.0",
+  "description": "Project just for practicing Each page is an individual practice ground index.html will be just a list of links for the individual pages.",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgecrespo94/css_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgecrespo94/css_practice/issues"
+  },
+  "homepage": "https://github.com/jorgecrespo94/css_practice#readme"
+}
