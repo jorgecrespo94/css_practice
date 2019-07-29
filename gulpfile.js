@@ -5,7 +5,8 @@
 gulp.task('browser-sync', function() {
   browswerSync.init({
     server: {
-      baseDir: "./"
+      baseDir: ["./","Pages"],
+      directory: true,
     }
   }); 
   gulp.watch([
