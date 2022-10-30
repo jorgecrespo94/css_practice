@@ -4,7 +4,7 @@
   "description": "Project just for practicing Each page is an individual practice ground index.html will be just a list of links for the individual pages.",
   "main": "index.js",
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2"
   },
   "devDependencies": {},
